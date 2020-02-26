@@ -2,7 +2,8 @@ __Maria Alenskaya__
 
 __Contacts:__ 
 * mcatchl420@gmail.com
-* +375291555542
+* +375291555542 
+* _Telegram_
 
 __Skills:__ Java
 
