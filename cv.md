@@ -1,13 +1,13 @@
-Maria Alenskaya
+__Maria Alenskaya__
 
-Contacts: 
-mcatchl420@gmail.com
-+375291555542
+__Contacts:__ 
+* mcatchl420@gmail.com
+* +375291555542
 
-Skills: Java
+__Skills:__ Java
 
-Experience: writing laboratory works and course project in the University
+__Experience:__ writing laboratory works and course project in the University
 
-Education: BSUIR
+__Education:__ BSUIR
 
-English: B1
+__English:__ B1
